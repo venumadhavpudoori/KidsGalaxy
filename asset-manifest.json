@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kidsgalaxy/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/kidsgalaxy/static/js/main.07cdacbd.chunk.js",
+    "main.js.map": "/kidsgalaxy/static/js/main.07cdacbd.chunk.js.map",
+    "runtime-main.js": "/kidsgalaxy/static/js/runtime-main.954f8c47.js",
+    "runtime-main.js.map": "/kidsgalaxy/static/js/runtime-main.954f8c47.js.map",
+    "static/js/2.d80346d1.chunk.js": "/kidsgalaxy/static/js/2.d80346d1.chunk.js",
+    "static/js/2.d80346d1.chunk.js.map": "/kidsgalaxy/static/js/2.d80346d1.chunk.js.map",
+    "static/js/3.8ba68829.chunk.js": "/kidsgalaxy/static/js/3.8ba68829.chunk.js",
+    "static/js/3.8ba68829.chunk.js.map": "/kidsgalaxy/static/js/3.8ba68829.chunk.js.map",
+    "index.html": "/kidsgalaxy/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/kidsgalaxy/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.d80346d1.chunk.js.LICENSE.txt": "/kidsgalaxy/static/js/2.d80346d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.954f8c47.js",
+    "static/js/2.d80346d1.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.07cdacbd.chunk.js"
+  ]
+}
