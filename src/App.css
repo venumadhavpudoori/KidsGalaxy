@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color:#18e41167;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#home {
+  background-color: #ccffcc;
+  width: 100%;
+  height: 82vh;
+}
